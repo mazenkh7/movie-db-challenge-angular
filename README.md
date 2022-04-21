@@ -2,7 +2,10 @@
 * Login / Logout + Stay signed in (fake - no backend)
 * Home page: top rated movies catalogue.
 * Use CanActivate / AuthGuard to prevent access without log in.
+* Services for login and data store.
+* Routing module.
 * Cool looking movie details page when clicking on any movie.
+* A bit of unit testing
 
 # To log in use the following dummy credentials:
 * Email: jojo@joestar.com
