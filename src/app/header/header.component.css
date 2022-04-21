@@ -1,0 +1,19 @@
+#header-logo{
+  width: 170px;
+}
+
+#dropdownMenuButton{
+  color: white;
+}
+
+#PageH{
+  color: white;
+}
+
+.page-change{
+  cursor: pointer;
+}
+
+a{
+  cursor: pointer;
+}
